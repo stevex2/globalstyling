@@ -1,0 +1,13 @@
+/**the registration system is contained in two files
+register.php in the root directory and register.inc.php
+in the includes directory
+it**/
+it does the following:
+  obtains and validates the username the user wishes to adopt
+  obtains and validates the users email address
+  obtains and validates the password the user wants to use
+  hashes the password and passes it back to the register.php(i.e
+  posts to itself)
+
+
+   
